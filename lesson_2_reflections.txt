@@ -1,4 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A special type of file(.git) is created.These files are different from others and can track history and commits.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+Staging area is a intermediate area which is used to commit multiple files to repository.Clubbing files which are of the same logical type in a single commit.
