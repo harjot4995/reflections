@@ -5,3 +5,17 @@ A special type of file(.git) is created.These files are different from others an
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is a intermediate area which is used to commit multiple files to repository.Clubbing files which are of the same logical type in a single commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Add only file that needs to be commit , this ensures 1 commit per logical change
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Different verisions of game can be mergerd later.New features can be tested before adding to the main software.
+
+How do the diagrams help you visualize the branch structure?
+
+Easily
+
