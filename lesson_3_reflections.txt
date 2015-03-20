@@ -12,3 +12,7 @@ Fork:Copy a repository on someone's github to your github.Github counts the numb
 Clone:Making a repository in the local machine which exsits on github.
 
 Branches:Branches consists of commits that are related to that particular branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+We can merge it later to update origin/master.
