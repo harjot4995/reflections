@@ -16,3 +16,13 @@ Branches:Branches consists of commits that are related to that particular branch
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 We can merge it later to update origin/master.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be difficult to contact each person and ask for their code.Also after doing the changes it would be hard to ask people to review it.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+
+Whenever I want to test the feature which I don't know will work.I can make changes in the branch without changing the master branch.
+
